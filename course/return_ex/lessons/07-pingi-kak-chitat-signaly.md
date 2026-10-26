@@ -5,7 +5,7 @@ module: Бесплатная часть
 access: free
 minutes: 9
 exercise: Разобрать 5 примеров сигналов
-tool: 4
+tool: null
 ---
 
 # Урок 7. Пинги: как читать сигналы
